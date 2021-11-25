@@ -1,0 +1,15 @@
+{
+  "name": "with-context",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joeydoesntsharefood/with-context.git",
+  "author": "Mateus Spnton <spntn.mateus@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "shelljs": "^0.8.4"
+  }
+}
